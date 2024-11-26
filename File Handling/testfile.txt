@@ -1,0 +1,21 @@
+We have so far created programs in Python that
+accept the input, manipulate it and display the
+output. But that output is available only during
+execution of the program and input is to be
+entered through the keyboard. This is because the
+variables used in a program have a lifetime that
+lasts till the time the program is under execution.
+What if we want to store the data that were input
+as well as the generated output permanently so
+that we can reuse it later? Usually, organisations
+would want to permanently store information
+about employees, inventory, sales, etc. to avoid
+repetitive tasks of entering the same data. Hence,
+data are stored permanently on secondary storage
+devices for reusability. We store Python programs
+written in script mode with a .py extension. Each
+program is stored on the secondary device as a
+file. Likewise, the data entered, and the output
+can be stored permanently into a file.This line has been appended
+ This line has been appended
+This line has been appended
